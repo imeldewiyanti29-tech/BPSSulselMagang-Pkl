@@ -1,0 +1,6 @@
+{
+  "name": "Portal Magang BPS Sulsel",
+  "description": "Portal Resmi Rekrutmen, Pendaftaran, dan Pelacakan PKL & Magang Badan Pusat Statistik Provinsi Sulawesi Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
